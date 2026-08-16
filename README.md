@@ -1,4 +1,4 @@
-# Lenovo | Nykaa Marketing Campaign Analytics Dashboard
+# Nykaa Marketing Campaign Analytics Dashboard
 
 A premium, interactive Streamlit analytics application designed for enterprise marketing executives to analyze portfolio campaign performance, spend efficiency, and acquisition dropoffs.
 
